@@ -1,2 +1,2 @@
 # AutoPos
-label chinese pos , open source
+label chinese pos (NER) ,time series convert , open source
